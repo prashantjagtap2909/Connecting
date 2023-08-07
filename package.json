@@ -1,0 +1,30 @@
+{
+  "name": "Connecting",
+  "version": "1.0.0",
+  "description": "The website to connect the all active Github user",
+  "main": "scripts/app.js",
+  "scripts": {
+    "start": "serve -s .",
+    "format": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashantjagtap2909/Connecting.git"
+  },
+  "keywords": [
+    "javascript",
+    "css",
+    "html",
+    "Connecting"
+  ],
+  "author": "Prashant Jagtap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pushkaraj2007/Connecting/issues"
+  },
+  "homepage": "https://github.com/Connecting/Connecting#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "serve": "^14.0.1"
+  }
+}
