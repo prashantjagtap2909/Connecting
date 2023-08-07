@@ -80,7 +80,8 @@ npm i
 npm run start
 ```
 
-
+## Important
+  If you doesn't know anything and haven't understood anything from this just go to profile.json and just add your name and username only.
 
 ##  Contributors
 
