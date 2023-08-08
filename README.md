@@ -25,7 +25,7 @@ Before installation, please make sure you have already installed the following t
 
 ##  Installation Steps
 
-- [Fork](https://github.com/prashantjagtap2909/Connecting/fork) the project. Click on the <a href="https://github.com/prashantjagtap2909/Connecting/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="15" width="15"></a> icon in the top right to get started.
+- [Fork](https://github.com/prashantjagtap2909/Connecting/fork) the project.
 
 - Use these commands in your git bash to make a clone of the project in your pc.
 
