@@ -12,7 +12,8 @@ A website to Connect with all Active Github users.
   - Javascript 
 
 ##  Demo
-![image](https://github.com/prashantjagtap2909/Connecting/assets/93985255/6020ba82-55af-4773-a0a6-e38412266071)
+![image](https://github.com/prashantjagtap2909/Connecting/assets/93985255/86135648-36b7-4d91-bb86-b5bdc343cd30)
+
 
 Check out the website: [Connecting](https://connecting-user.netlify.app/)
 
@@ -24,7 +25,7 @@ Before installation, please make sure you have already installed the following t
 
 ##  Installation Steps
 
-- [Fork](https://github.com/prashantjagtap2909/Connecting/fork) the project. Click on the <a href="https://github.com/pushkaraj2007/TechCreators/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="15" width="15"></a> icon in the top right to get started.
+- [Fork](https://github.com/prashantjagtap2909/Connecting/fork) the project. Click on the <a href="https://github.com/prashantjagtap2909/Connecting/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="15" width="15"></a> icon in the top right to get started.
 
 - Use these commands in your git bash to make a clone of the project in your pc.
 
