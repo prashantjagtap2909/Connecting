@@ -20,7 +20,6 @@
     "username": "arjun-kadam"
   },
   {
-
     "image": "https://avatars.githubusercontent.com/u/109601073?v=4",
     "name" : "Rajnandini Tikkal",
     "username": "rajnandinitikkal"
@@ -29,7 +28,6 @@
     "image": "https://avatars.githubusercontent.com/u/125116481?s=400&u=bf0264ffb7d7f8bb99bdc3f30edb6ae788d15e10&v=4",
     "name" : "Sakshi bodakhe",
     "username": "sakshibodakhe"
-
   },
   
 {
@@ -37,15 +35,20 @@
   "name" : "Rohan Borkar",
   "username": "RohanBorkar"
 },
-  {
+  
+{
   "image": "",
   "name": "Sham Machale",
   "username": "Shammachale",
-  },
-  {
+  
+},
+
+{
    "image": "",
   "name" : "Mayur Bankar",
   "username": "MayurBankar5757"
-  }
+  
+},
+  
 
 ]
