@@ -29,26 +29,21 @@
     "name" : "Sakshi bodakhe",
     "username": "sakshibodakhe"
   },
-  
-{
+  {
   "image": "",
   "name" : "Rohan Borkar",
   "username": "RohanBorkar"
-},
-  
+ }, 
+ {
+  "image": "",
+  "name" : "Mayur Bankar",
+  "username": "MayurBankar5757" 
+ },
 {
   "image": "",
   "name": "Sham Machale",
-  "username": "Shammachale",
-  
-},
-
-{
-   "image": "",
-  "name" : "Mayur Bankar",
-  "username": "MayurBankar5757"
-  
-},
+  "username": "Shammachale", 
+ }
   
 
 ]
