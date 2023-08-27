@@ -12,7 +12,8 @@ A website to Connect with all Active Github users.
   - Javascript 
 
 ##  Demo
-![image](https://github.com/prashantjagtap2909/Connecting/assets/93985255/86135648-36b7-4d91-bb86-b5bdc343cd30)
+![image](https://github.com/prashantjagtap2909/Connecting/assets/93985255/4eadbefa-4917-4fad-9f62-c6402d41937d)
+
 
 
 Check out the website: [Connecting - https://connecting-user.netlify.app/](https://connecting-user.netlify.app/)
