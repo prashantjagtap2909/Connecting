@@ -1,51 +1,63 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta name="robots" content="index, follow" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Connecting - Connect Github users.</title>
+    <meta
+      name="description"
+      content="Connecting™ is focuses on making active community for GitHub users to connect likely skilled people with each other"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="192x192"
+      href="assets/image6.png"
+    />
+    <link rel="stylesheet" href="styles/index.css" />
+    <script
+      src="https://kit.fontawesome.com/9bd09bfeae.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
 
-<head>
-  <meta name="robots" content="index, follow"/>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Connecting - Connect Github users.</title>
-  <meta name="description" content="Connecting™ is focuses on making active community for GitHub users to connect likely skilled people with each other">
-  <link rel="icon" type="image/png" sizes="192x192" href="assets/image6.png">
-  <link rel="stylesheet" href="styles/index.css" />
-  <script src="https://kit.fontawesome.com/9bd09bfeae.js" crossorigin="anonymous"></script>
-</head>
-
-<body>
-  <nav>
-    <div></div>
-    <div class="input-div">
-
-      <input type="text" class="search-input" placeholder="Search for profile..." />
-      <div class="search-icon-container">
-        <img src="/assets/search-icon.svg" alt="Search icon" />
+  <body>
+    <nav>
+      <div></div>
+      <div class="input-div">
+        <input
+          type="text"
+          class="search-input"
+          placeholder="Search for profile..."
+        />
+        <div class="search-icon-container">
+          <img src="/assets/search-icon.svg" alt="Search icon" />
+        </div>
       </div>
 
-    </div>
+      <div class="img-div">
+        <div class="rounded background-sun">
+          <i class="fa-solid fa-sun"></i>
+        </div>
 
-    <div class="img-div">
-      <div class="rounded background-sun">
-        <i class="fa-solid fa-sun"></i>
+        <a
+          href="https://github.com/prashantjagtap2909/Connecting"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img class="github-img" src="/assets/github.png" alt="GitHub logo" />
+        </a>
       </div>
+    </nav>
 
-      
-
-      <a href="https://github.com/prashantjagtap2909/Connecting" target="_blank" rel="noopener noreferrer">
-        <img class="github-img" src="/assets/github.png" alt="GitHub logo" />
-      </a>
-
+    <div class="container">
+      <div class="all-profiles-div"></div>
+      <div class="no-profile-div">
+        <p>Nothing to show</p>
+      </div>
     </div>
-  </nav>
-
-  <div class="container">
-    <div class="all-profiles-div"></div>
-    <div class="no-profile-div">
-      <p>Nothing to show</p>
-    </div>
-  </div>
-  <script src="scripts/app.js"></script>
-</body>
-
+    <script src="scripts/app.js"></script>
+  </body>
 </html>
