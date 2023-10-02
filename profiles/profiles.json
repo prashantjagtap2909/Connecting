@@ -30,43 +30,49 @@
     "username": "sakshibodakhe"
   },
   {
-    "image": "https://avatars.githubusercontent.com/u/74851273?v=4",
-    "name": "Rohan Borkar",
-    "username": "RohanBorkar"
-  },
+
+  "image": "https://avatars.githubusercontent.com/u/74851273?v=4",
+  "name" : "Rohan Borkar",
+  "username": "RohanBorkar"
+ }, 
+ {
+  "image": "https://avatars.githubusercontent.com/u/127082849?v=4",
+  "name" : "Mayur Bankar",
+  "username": "MayurBankar5757" 
+ },
+   {
+  "image": "https://avatars.githubusercontent.com/u/120729282?v=4",
+  "name" : "Sham Machale",
+  "username": "Shammachale0102" 
+ },
+     {
+  "image": "https://avatars.githubusercontent.com/u/65857766?v=4",
+  "name" : "Nikhil Divekar",
+  "username": "DivekarNikhil" 
+ },
+ {
+ "image": "https://avatars.githubusercontent.com/u/124031895?v=4",
+  "name" : "Vaibhav Gaikwad",
+  "username": "vaibhavgaikwad8476"  
+ },
   {
-    "image": "https://avatars.githubusercontent.com/u/127082849?v=4",
-    "name": "Mayur Bankar",
-    "username": "MayurBankar5757"
-  },
-  {
-    "image": "https://avatars.githubusercontent.com/u/120729282?v=4",
-    "name": "Sham Machale",
-    "username": "Shammachale0102"
-  },
-  {
-    "image": "https://avatars.githubusercontent.com/u/65857766?v=4",
-    "name": "Nikhil Divekar",
-    "username": "DivekarNikhil"
-  },
-  {
-    "image": "https://avatars.githubusercontent.com/u/124031895?v=4",
-    "name": "Vaibhav Gaikwad",
-    "username": "vaibhavgaikwad8476"
-  },
-  {
-    "image": "https://avatars.githubusercontent.com/u/126690000?v=4",
-    "name": "Vaibhav Pandarkar",
-    "username": "vaibhavpandarkar4040"
-  },
-  {
+ "image": "https://avatars.githubusercontent.com/u/42183055?v=4",
+  "name" : "Rahul Kumar",
+  "username": "rahullkumr"  
+ },
+   {
+ "image": "https://avatars.githubusercontent.com/u/126690000?v=4",
+  "name" : "Vaibhav Pandarkar",
+  "username": "vaibhavpandarkar4040" 
+   },
+   {
     "image": "https://avatars.githubusercontent.com/u/146003237?v=4",
-    "name": "Kaniz Fatma",
-    "username": "Kaniz-Fatma"
-  },
-  {
-    "image": "https://github.com/Ssaava/Ssaava/blob/main/IMAGES/mine.jpg?raw=true",
-    "name": "Emma Ssaava",
-    "username": "Ssaava"
-  }
+     "name" : "Kaniz Fatma",
+     "username": "Kaniz-Fatma" 
+      },
+      {
+        "image": "https://avatars.githubusercontent.com/u/71535757?v=4",
+        "name" : "Uthman Abdurrahman",
+        "username": "Codeknight-Dojo" 
+       }
 ]
