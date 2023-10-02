@@ -12,7 +12,8 @@ A website to Connect with all Active Github users.
   - Javascript 
 
 ##  Demo
-![image](https://github.com/prashantjagtap2909/Connecting/assets/93985255/4eadbefa-4917-4fad-9f62-c6402d41937d)
+![image](https://github.com/prashantjagtap2909/Connecting/assets/93985255/f8ff3bd3-0465-42c2-a2a0-ce1f5a57c576)
+
 
 
 
