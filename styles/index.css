@@ -11,17 +11,28 @@ body {
 }
 
 nav {
-  width: 90%;
-  margin: 0 auto;
-  margin-top: 20px;
-  display: flex;
-  justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+    grid-template-rows: auto auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap:1rem ;
+}
+@media (min-width: 768px){ 
+  nav {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    
+  }
 }
 
 .input-div {
   display: flex;
   align-items: center;
   position: relative;
+  grid-column: span 2/3;
 }
 
 .search-icon-container {
@@ -75,7 +86,8 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 1rem;
+  gap: 1rem; 
+  grid-row: span 5/5;
 }
 
 .img-div img {
@@ -255,4 +267,16 @@ nav {
 
 ::-webkit-scrollbar-thumb {
   background: #A0A0A0;
+}
+
+
+/* github icons */
+.github-icons {
+  display: flex;
+  grid-row: span 4/5;
+  .badge {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+ 
 }

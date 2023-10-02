@@ -63,3 +63,33 @@ btn.addEventListener('click', e => {
 // load all profiles
 loadProfiles();
 
+
+// github icons
+async function fetchData(repo) {
+  try {
+    const response = await fetch(`https://api.github.com/repos/${repo}`);
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error('Error fetching data:', error);
+  }
+}
+
+async function updateBadges(repo) {
+  const data = await fetchData(repo);
+
+  if (data) {
+    const forksBadge = document.getElementById('forks-badge');
+    forksBadge.innerHTML = `<a href="https://github.com/${repo}/fork" target="_blank" style="text-decoration: none;"><i class="fas fa-code-branch" style="color: #000;"></i> ${data.forks}</a>`;
+
+    const starsBadge = document.getElementById('stars-badge');
+    starsBadge.innerHTML = `<a href="https://github.com/${repo}/stargazers" target="_blank" style="text-decoration: none;"><i class="fas fa-star" style="color: #000;"></i> ${data.stargazers_count}</a>`;
+
+    const contributorsBadge = document.getElementById('contributors-badge');
+    contributorsBadge.innerHTML = `<a href="https://github.com/${repo}/graphs/contributors" target="_blank"><i class="fas fa-users" style="color: #000;"></i>${data.contributors}</a>`;
+}
+}
+
+const repository = ' prashantjagtap2909/Connecting'; 
+updateBadges(repository);
+
