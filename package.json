@@ -1,7 +1,7 @@
 {
   "name": "Connecting",
   "version": "1.0.0",
-  "description": "The website to connect the all active Github user",
+  "description": "The platform to connect with the active Github user",
   "main": "scripts/app.js",
   "scripts": {
     "start": "serve -s .",

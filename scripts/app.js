@@ -60,6 +60,6 @@ btn.addEventListener('click', e => {
   document.body.classList.toggle('night-mode')
  })
 
-// load all profiles
+
 loadProfiles();
 
