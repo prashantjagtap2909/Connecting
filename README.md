@@ -97,5 +97,3 @@ Thank you all...
 [![Contributors](https://contrib.rocks/image?repo=prashantjagtap2909/Connecting)](https://github.com/prashantjagtap2909/Connecting/graphs/contributors)
 
 
-
-Don't forget to star a repo
