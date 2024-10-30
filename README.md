@@ -18,7 +18,6 @@ A website to Connect with all Active Github users.
 
 
 
-
 Check out the website: [Connecting - https://connecting-user.netlify.app/](https://connecting-user.netlify.app/)
 
 ##  Prerequisites
@@ -88,7 +87,7 @@ npm run start
 ```
 
 ## Important
-  If you don't know anything and haven't understood anything from this just go to profile.json and just add your name and username only.
+  If you don't know anything and haven't understood anything from above just go to profile.json and just add your name and username only.
 
 ##  Contributors
 
