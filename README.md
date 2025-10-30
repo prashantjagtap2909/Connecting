@@ -2,7 +2,7 @@
 - An open source platform.
 - Beginner-friendly for Hacktoberfest contribution.
 
-
+Join [QuillCircuit.com/forum](https://www.quillcircuit.com/forum) to tech, ai, startup discussion
 
 
 A website to Connect with all Active Github users.
@@ -94,5 +94,6 @@ npm run start
 Thank you all...
 
 [![Contributors](https://contrib.rocks/image?repo=prashantjagtap2909/Connecting)](https://github.com/prashantjagtap2909/Connecting/graphs/contributors)
+
 
 
